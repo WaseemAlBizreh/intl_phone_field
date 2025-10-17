@@ -464,7 +464,7 @@ class _IntlPhoneFieldState extends State<IntlPhoneField> {
                   Image.asset(
                     'assets/flags/${_selectedCountry.code.toLowerCase()}.png',
                     package: 'intl_phone_field',
-                    width: 32,
+                    width: 26,
                   ),
                   const SizedBox(width: 8),
                 ],
